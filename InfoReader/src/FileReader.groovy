@@ -6,7 +6,7 @@ package reader
 
 class FileReader
 {
-    static final VIDEOS = ["PartyScene", "ParkRun", "Kimono1"]
+    static final VIDEOS = ["PartyScene", "ParkRun", "Kimono1", "BQMall", "City", "PartyScene", "Traffic"]
     static final Resoulutions = ["intra", "ip_8", "ip_16", "ip_32", "ip_64"]
 
     static ProcessInfo readFile(String videoName, String resolution)
